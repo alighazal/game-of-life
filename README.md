@@ -2,7 +2,7 @@
 
 ## Brief
 
-This is a  vary simpilistic implementation of conway's game of life.
+This is a  vary simplistic implementation of conway's game of life.
 
 Currently, it starts by initializing a random grid, and you can see how generations evolve. 
 
